@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "MOTOMAMI - Rosalia",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/rosalia-album.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Policy Of Truth - Depeche Mode",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/depech-mode-album.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "IGOR - Tylor, The Creator",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/igor-tylor-the-creator.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Art Angels - Grimes",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/art-angels.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Red Moon in Venus - Kali Uchis",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/red-moon.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "SOS - SZA",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/sos.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Diamond Eyes - Deftones",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/diamond-eyes.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "CRASH - XCX",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/crash.jpg" } } }
+      }
+    }
+  ]
+}
